@@ -1,5 +1,3 @@
-# Quizly-System-Design-and-Architecture
-Software System Specification (SRS) and UML Architecture Design for a Testing &amp; Quiz Platform.
 
 # Quizly – Software System Analysis & Architecture Design
 
